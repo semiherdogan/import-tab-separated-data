@@ -190,5 +190,7 @@ if( isset($_POST['data']) ){
 
 	</div><!--/.wrapper -->
 	
+	<br />
+	<br />
 </body>
 </html>
